@@ -1,0 +1,122 @@
+[
+  {
+    "equipmentId": "barbell",
+    "name": "Barbell",
+    "category": "free_weights",
+    "isAvailable": true
+  },
+  {
+    "equipmentId": "dumbbell",
+    "name": "Dumbbells",
+    "category": "free_weights",
+    "isAvailable": true
+  },
+  {
+    "equipmentId": "bench",
+    "name": "Bench",
+    "category": "strength",
+    "isAvailable": true
+  },
+  {
+    "equipmentId": "squat_rack",
+    "name": "Squat Rack",
+    "category": "strength",
+    "isAvailable": true
+  },
+  {
+    "equipmentId": "cable_machine",
+    "name": "Cable Machine",
+    "category": "machines",
+    "isAvailable": true
+  },
+  {
+    "equipmentId": "leg_press",
+    "name": "Leg Press Machine",
+    "category": "machines",
+    "isAvailable": true
+  },
+  {
+    "equipmentId": "lat_pulldown",
+    "name": "Lat Pulldown Machine",
+    "category": "machines",
+    "isAvailable": true
+  },
+  {
+    "equipmentId": "treadmill",
+    "name": "Treadmill",
+    "category": "cardio",
+    "isAvailable": true
+  },
+  {
+    "equipmentId": "stationary_bike",
+    "name": "Stationary Bike",
+    "category": "cardio",
+    "isAvailable": true
+  },
+  {
+    "equipmentId": "rowing_machine",
+    "name": "Rowing Machine",
+    "category": "cardio",
+    "isAvailable": true
+  },
+  {
+    "equipmentId": "bodyweight",
+    "name": "Bodyweight",
+    "category": "bodyweight",
+    "isAvailable": true
+  },
+  {
+    "equipmentId": "pull_up_bar",
+    "name": "Pull-Up Bar",
+    "category": "strength",
+    "isAvailable": true
+  },
+  {
+    "equipmentId": "ez_curl_bar",
+    "name": "EZ Curl Bar",
+    "category": "free_weights",
+    "isAvailable": true
+  },
+  {
+    "equipmentId": "kettlebell",
+    "name": "Kettlebell",
+    "category": "free_weights",
+    "isAvailable": true
+  },
+  {
+    "equipmentId": "resistance_bands",
+    "name": "Resistance Bands",
+    "category": "bodyweight",
+    "isAvailable": true
+  },
+  {
+    "equipmentId": "smith_machine",
+    "name": "Smith Machine",
+    "category": "machines",
+    "isAvailable": true
+  },
+  {
+    "equipmentId": "leg_curl_machine",
+    "name": "Leg Curl Machine",
+    "category": "machines",
+    "isAvailable": true
+  },
+  {
+    "equipmentId": "leg_extension_machine",
+    "name": "Leg Extension Machine",
+    "category": "machines",
+    "isAvailable": true
+  },
+  {
+    "equipmentId": "chest_press_machine",
+    "name": "Chest Press Machine",
+    "category": "machines",
+    "isAvailable": true
+  },
+  {
+    "equipmentId": "pec_deck",
+    "name": "Pec Deck Machine",
+    "category": "machines",
+    "isAvailable": true
+  }
+]

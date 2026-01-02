@@ -1,0 +1,386 @@
+[
+    {
+        "id": "strength-beginner",
+        "name": "Strength Fundamentals",
+        "goal": "strength",
+        "level": "beginner",
+        "description": "Build a foundation of strength with focus on squat, bench, and deadlift technique and progressive loading.",
+        "duration": "8 Weeks",
+        "difficultyLabel": "Beginner",
+        "days": [
+            {
+                "day": 1,
+                "focus": "Squat Focus",
+                "targetMuscles": [
+                    "quads",
+                    "glutes"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "barbell_squat",
+                        "sets": 5,
+                        "reps": 5
+                    },
+                    {
+                        "exerciseId": "leg_press",
+                        "sets": 3,
+                        "reps": 10
+                    }
+                ]
+            },
+            {
+                "day": 2,
+                "focus": "Bench Focus",
+                "targetMuscles": [
+                    "chest",
+                    "triceps"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "bench_press",
+                        "sets": 5,
+                        "reps": 5
+                    },
+                    {
+                        "exerciseId": "close_grip_bench",
+                        "sets": 3,
+                        "reps": 8
+                    }
+                ]
+            },
+            {
+                "day": 3,
+                "focus": "Deadlift Practice",
+                "targetMuscles": [
+                    "hamstrings",
+                    "back"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "deadlift",
+                        "sets": 5,
+                        "reps": 5
+                    },
+                    {
+                        "exerciseId": "romanian_deadlift",
+                        "sets": 3,
+                        "reps": 8
+                    }
+                ]
+            },
+            {
+                "day": 4,
+                "focus": "Accessory Strength",
+                "targetMuscles": [
+                    "back",
+                    "core"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "barbell_row",
+                        "sets": 4,
+                        "reps": 6
+                    },
+                    {
+                        "exerciseId": "farmer_carry",
+                        "sets": 4,
+                        "reps": "40m"
+                    }
+                ]
+            },
+            {
+                "day": 5,
+                "focus": "Speed/Explosive",
+                "targetMuscles": [
+                    "power"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "box_jump",
+                        "sets": 5,
+                        "reps": 4
+                    },
+                    {
+                        "exerciseId": "power_clean",
+                        "sets": 4,
+                        "reps": 3
+                    }
+                ]
+            },
+            {
+                "day": 6,
+                "focus": "Mobility & Recovery",
+                "targetMuscles": [
+                    "mobility"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "yoga_flow",
+                        "sets": 1,
+                        "reps": "25min"
+                    },
+                    {
+                        "exerciseId": "stretching",
+                        "sets": 1,
+                        "reps": "20min"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "strength-intermediate",
+        "name": "Linear Strength Progression",
+        "goal": "strength",
+        "level": "intermediate",
+        "description": "Structured weekly progression with intensity and accessory work to increase 1RM across compounds.",
+        "duration": "10 Weeks",
+        "difficultyLabel": "Intermediate",
+        "days": [
+            {
+                "day": 1,
+                "focus": "Heavy Squat",
+                "targetMuscles": [
+                    "quads"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "barbell_squat",
+                        "sets": 6,
+                        "reps": 4
+                    },
+                    {
+                        "exerciseId": "front_squat",
+                        "sets": 4,
+                        "reps": 6
+                    }
+                ]
+            },
+            {
+                "day": 2,
+                "focus": "Heavy Bench",
+                "targetMuscles": [
+                    "chest"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "bench_press",
+                        "sets": 6,
+                        "reps": 4
+                    },
+                    {
+                        "exerciseId": "incline_bench",
+                        "sets": 4,
+                        "reps": 6
+                    }
+                ]
+            },
+            {
+                "day": 3,
+                "focus": "Deadlift Variation",
+                "targetMuscles": [
+                    "posterior_chain"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "deficit_deadlift",
+                        "sets": 5,
+                        "reps": 4
+                    },
+                    {
+                        "exerciseId": "good_morning",
+                        "sets": 4,
+                        "reps": 6
+                    }
+                ]
+            },
+            {
+                "day": 4,
+                "focus": "Upper Accessories",
+                "targetMuscles": [
+                    "back",
+                    "arms"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "weighted_pull_up",
+                        "sets": 4,
+                        "reps": 6
+                    },
+                    {
+                        "exerciseId": "barbell_row",
+                        "sets": 4,
+                        "reps": 6
+                    }
+                ]
+            },
+            {
+                "day": 5,
+                "focus": "Explosive Power",
+                "targetMuscles": [
+                    "power"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "push_press",
+                        "sets": 5,
+                        "reps": 3
+                    },
+                    {
+                        "exerciseId": "sprint",
+                        "sets": 6,
+                        "reps": "30s"
+                    }
+                ]
+            },
+            {
+                "day": 6,
+                "focus": "Active Recovery",
+                "targetMuscles": [
+                    "mobility"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "foam_rolling",
+                        "sets": 1,
+                        "reps": "15min"
+                    },
+                    {
+                        "exerciseId": "mobility_flow",
+                        "sets": 1,
+                        "reps": "20min"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "strength-advanced",
+        "name": "Max Strength Cycle",
+        "goal": "strength",
+        "level": "advanced",
+        "description": "Peaking program with heavy singles, doubles, and triples to maximize maximal strength.",
+        "duration": "12 Weeks",
+        "difficultyLabel": "Advanced",
+        "days": [
+            {
+                "day": 1,
+                "focus": "Squat Intensity",
+                "targetMuscles": [
+                    "quads",
+                    "glutes"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "barbell_squat",
+                        "sets": 8,
+                        "reps": 3
+                    },
+                    {
+                        "exerciseId": "pause_squat",
+                        "sets": 4,
+                        "reps": 3
+                    }
+                ]
+            },
+            {
+                "day": 2,
+                "focus": "Bench Intensity",
+                "targetMuscles": [
+                    "chest",
+                    "triceps"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "bench_press",
+                        "sets": 8,
+                        "reps": 3
+                    },
+                    {
+                        "exerciseId": "board_press",
+                        "sets": 5,
+                        "reps": 3
+                    }
+                ]
+            },
+            {
+                "day": 3,
+                "focus": "Deadlift Intensity",
+                "targetMuscles": [
+                    "posterior_chain"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "deadlift",
+                        "sets": 8,
+                        "reps": 3
+                    },
+                    {
+                        "exerciseId": "rack_pull",
+                        "sets": 5,
+                        "reps": 3
+                    }
+                ]
+            },
+            {
+                "day": 4,
+                "focus": "Recovery & Technique",
+                "targetMuscles": [
+                    "mobility",
+                    "technique"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "light_technique_squats",
+                        "sets": 3,
+                        "reps": 5
+                    },
+                    {
+                        "exerciseId": "shoulder_health",
+                        "sets": 3,
+                        "reps": 12
+                    }
+                ]
+            },
+            {
+                "day": 5,
+                "focus": "Accessory Strength",
+                "targetMuscles": [
+                    "back",
+                    "core"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "barbell_row",
+                        "sets": 5,
+                        "reps": 5
+                    },
+                    {
+                        "exerciseId": "weighted_core",
+                        "sets": 4,
+                        "reps": 10
+                    }
+                ]
+            },
+            {
+                "day": 6,
+                "focus": "Contrast Conditioning",
+                "targetMuscles": [
+                    "conditioning"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "sled_push",
+                        "sets": 8,
+                        "reps": "20m"
+                    },
+                    {
+                        "exerciseId": "kettlebell_swing",
+                        "sets": 5,
+                        "reps": 15
+                    }
+                ]
+            }
+        ]
+    }
+]

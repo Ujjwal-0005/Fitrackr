@@ -1,0 +1,269 @@
+[
+  {
+    "exerciseId": "barbell_squat",
+    "name": "Barbell Squat",
+    "muscleGroup": ["quads", "glutes", "core"],
+    "muscles": {
+      "primary": ["Quadriceps", "Glutes"],
+      "secondary": ["Core", "Hamstrings"]
+    },
+    "equipment": ["barbell", "squat_rack"],
+    "type": "strength",
+    "difficulty": "intermediate",
+    "met": 8,
+    "instructions": [
+      "Position barbell on upper back",
+      "Stand with feet shoulder-width apart",
+      "Lower body by bending knees and hips",
+      "Keep chest up and core tight",
+      "Push through heels to return to start"
+    ]
+  },
+  {
+    "exerciseId": "bench_press",
+    "name": "Barbell Bench Press",
+    "muscleGroup": ["chest", "triceps", "shoulders"],
+    "muscles": {
+      "primary": ["Pectoralis Major"],
+      "secondary": ["Triceps", "Anterior Deltoids"]
+    },
+    "equipment": ["barbell", "bench"],
+    "type": "strength",
+    "difficulty": "intermediate",
+    "met": 6
+  },
+  {
+    "exerciseId": "deadlift",
+    "name": "Barbell Deadlift",
+    "muscleGroup": ["back", "glutes", "hamstrings"],
+    "muscles": {
+      "primary": ["Erector Spinae", "Glutes", "Hamstrings"],
+      "secondary": ["Traps", "Lats", "Forearms"]
+    },
+    "equipment": ["barbell"],
+    "type": "strength",
+    "difficulty": "advanced",
+    "met": 9
+  },
+  {
+    "exerciseId": "lat_pulldown",
+    "name": "Lat Pulldown",
+    "muscleGroup": ["lats", "biceps"],
+    "muscles": {
+      "primary": ["Latissimus Dorsi"],
+      "secondary": ["Biceps", "Rhomboids"]
+    },
+    "equipment": ["lat_pulldown"],
+    "type": "strength",
+    "difficulty": "beginner",
+    "met": 5
+  },
+  {
+    "exerciseId": "dumbbell_row",
+    "name": "Dumbbell Row",
+    "muscleGroup": ["back", "biceps"],
+    "muscles": {
+      "primary": ["Latissimus Dorsi", "Rhomboids"],
+      "secondary": ["Biceps", "Rear Deltoids"]
+    },
+    "equipment": ["dumbbell", "bench"],
+    "type": "strength",
+    "difficulty": "beginner",
+    "met": 6
+  },
+  {
+    "exerciseId": "shoulder_press",
+    "name": "Dumbbell Shoulder Press",
+    "muscleGroup": ["shoulders", "triceps"],
+    "muscles": {
+      "primary": ["Deltoids"],
+      "secondary": ["Triceps", "Upper Chest"]
+    },
+    "equipment": ["dumbbell"],
+    "type": "strength",
+    "difficulty": "beginner",
+    "met": 6
+  },
+  {
+    "exerciseId": "leg_press",
+    "name": "Leg Press",
+    "muscleGroup": ["quads", "glutes"],
+    "muscles": {
+      "primary": ["Quadriceps", "Glutes"],
+      "secondary": ["Hamstrings"]
+    },
+    "equipment": ["leg_press"],
+    "type": "strength",
+    "difficulty": "beginner",
+    "met": 7
+  },
+  {
+    "exerciseId": "leg_curl",
+    "name": "Leg Curl",
+    "muscleGroup": ["hamstrings"],
+    "muscles": {
+      "primary": ["Hamstrings"],
+      "secondary": ["Calves"]
+    },
+    "equipment": ["leg_curl_machine"],
+    "type": "strength",
+    "difficulty": "beginner",
+    "met": 5
+  },
+  {
+    "exerciseId": "bicep_curl",
+    "name": "Dumbbell Bicep Curl",
+    "muscleGroup": ["biceps"],
+    "muscles": {
+      "primary": ["Biceps Brachii"],
+      "secondary": ["Forearms"]
+    },
+    "equipment": ["dumbbell"],
+    "type": "strength",
+    "difficulty": "beginner",
+    "met": 4
+  },
+  {
+    "exerciseId": "tricep_extension",
+    "name": "Cable Tricep Extension",
+    "muscleGroup": ["triceps"],
+    "muscles": {
+      "primary": ["Triceps"],
+      "secondary": []
+    },
+    "equipment": ["cable_machine"],
+    "type": "strength",
+    "difficulty": "beginner",
+    "met": 4
+  },
+  {
+    "exerciseId": "treadmill_run",
+    "name": "Treadmill Run",
+    "muscleGroup": ["cardio"],
+    "muscles": {
+      "primary": ["Cardiovascular System"],
+      "secondary": ["Legs"]
+    },
+    "equipment": ["treadmill"],
+    "type": "cardio",
+    "difficulty": "beginner",
+    "met": 10
+  },
+  {
+    "exerciseId": "stationary_bike",
+    "name": "Stationary Bike",
+    "muscleGroup": ["cardio"],
+    "muscles": {
+      "primary": ["Cardiovascular System"],
+      "secondary": ["Quads", "Calves"]
+    },
+    "equipment": ["stationary_bike"],
+    "type": "cardio",
+    "difficulty": "beginner",
+    "met": 8
+  },
+  {
+    "exerciseId": "rowing_machine",
+    "name": "Rowing Machine",
+    "muscleGroup": ["cardio", "back"],
+    "muscles": {
+      "primary": ["Cardiovascular System", "Back"],
+      "secondary": ["Arms", "Core"]
+    },
+    "equipment": ["rowing_machine"],
+    "type": "cardio",
+    "difficulty": "intermediate",
+    "met": 9
+  },
+  {
+    "exerciseId": "plank",
+    "name": "Plank Hold",
+    "muscleGroup": ["core"],
+    "muscles": {
+      "primary": ["Rectus Abdominis", "Transverse Abdominis"],
+      "secondary": ["Shoulders", "Glutes"]
+    },
+    "equipment": ["bodyweight"],
+    "type": "core",
+    "difficulty": "beginner",
+    "met": 4
+  },
+  {
+    "exerciseId": "push_up",
+    "name": "Push-Up",
+    "muscleGroup": ["chest", "triceps", "shoulders"],
+    "muscles": {
+      "primary": ["Pectoralis Major"],
+      "secondary": ["Triceps", "Deltoids", "Core"]
+    },
+    "equipment": ["bodyweight"],
+    "type": "strength",
+    "difficulty": "beginner",
+    "met": 5
+  },
+  {
+    "exerciseId": "pull_up",
+    "name": "Pull-Up",
+    "muscleGroup": ["back", "biceps"],
+    "muscles": {
+      "primary": ["Latissimus Dorsi"],
+      "secondary": ["Biceps", "Forearms"]
+    },
+    "equipment": ["pull_up_bar"],
+    "type": "strength",
+    "difficulty": "advanced",
+    "met": 7
+  },
+  {
+    "exerciseId": "cable_chest_fly",
+    "name": "Cable Chest Fly",
+    "muscleGroup": ["chest"],
+    "muscles": {
+      "primary": ["Pectoralis Major"],
+      "secondary": ["Anterior Deltoids"]
+    },
+    "equipment": ["cable_machine"],
+    "type": "strength",
+    "difficulty": "intermediate",
+    "met": 5
+  },
+  {
+    "exerciseId": "lunges",
+    "name": "Walking Lunges",
+    "muscleGroup": ["quads", "glutes"],
+    "muscles": {
+      "primary": ["Quadriceps", "Glutes"],
+      "secondary": ["Hamstrings", "Calves"]
+    },
+    "equipment": ["bodyweight"],
+    "type": "strength",
+    "difficulty": "beginner",
+    "met": 6
+  },
+  {
+    "exerciseId": "russian_twist",
+    "name": "Russian Twist",
+    "muscleGroup": ["core"],
+    "muscles": {
+      "primary": ["Obliques"],
+      "secondary": ["Rectus Abdominis"]
+    },
+    "equipment": ["bodyweight"],
+    "type": "core",
+    "difficulty": "beginner",
+    "met": 5
+  },
+  {
+    "exerciseId": "incline_bench_press",
+    "name": "Incline Barbell Bench Press",
+    "muscleGroup": ["chest", "shoulders"],
+    "muscles": {
+      "primary": ["Upper Pectoralis Major"],
+      "secondary": ["Anterior Deltoids", "Triceps"]
+    },
+    "equipment": ["barbell", "bench"],
+    "type": "strength",
+    "difficulty": "intermediate",
+    "met": 7
+  }
+]

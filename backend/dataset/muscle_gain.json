@@ -1,0 +1,400 @@
+[
+    {
+        "id": "muscle-beginner",
+        "name": "Hypertrophy Foundation",
+        "goal": "muscle_gain",
+        "level": "beginner",
+        "description": "Full-body hypertrophy plan to build muscle mass with simple, effective progressions.",
+        "duration": "6 Weeks",
+        "difficultyLabel": "Beginner",
+        "days": [
+            {
+                "day": 1,
+                "focus": "Full Body Push/Pull",
+                "targetMuscles": [
+                    "chest",
+                    "back",
+                    "legs"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "bench_press",
+                        "sets": 3,
+                        "reps": 10
+                    },
+                    {
+                        "exerciseId": "barbell_row",
+                        "sets": 3,
+                        "reps": 10
+                    }
+                ]
+            },
+            {
+                "day": 2,
+                "focus": "Legs Hypertrophy",
+                "targetMuscles": [
+                    "quads",
+                    "glutes"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "barbell_squat",
+                        "sets": 4,
+                        "reps": 10
+                    },
+                    {
+                        "exerciseId": "romanian_deadlift",
+                        "sets": 3,
+                        "reps": 10
+                    }
+                ]
+            },
+            {
+                "day": 3,
+                "focus": "Upper Isolation",
+                "targetMuscles": [
+                    "shoulders",
+                    "arms"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "dumbbell_press",
+                        "sets": 3,
+                        "reps": 12
+                    },
+                    {
+                        "exerciseId": "bicep_curl",
+                        "sets": 3,
+                        "reps": 12
+                    }
+                ]
+            },
+            {
+                "day": 4,
+                "focus": "Posterior Chain",
+                "targetMuscles": [
+                    "back",
+                    "hamstrings"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "deadlift",
+                        "sets": 3,
+                        "reps": 6
+                    },
+                    {
+                        "exerciseId": "glute_bridge",
+                        "sets": 3,
+                        "reps": 12
+                    }
+                ]
+            },
+            {
+                "day": 5,
+                "focus": "Volume Upper",
+                "targetMuscles": [
+                    "chest",
+                    "back",
+                    "arms"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "incline_bench",
+                        "sets": 3,
+                        "reps": 10
+                    },
+                    {
+                        "exerciseId": "lat_pulldown",
+                        "sets": 3,
+                        "reps": 10
+                    }
+                ]
+            },
+            {
+                "day": 6,
+                "focus": "Active Recovery & Core",
+                "targetMuscles": [
+                    "core",
+                    "mobility"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "plank",
+                        "sets": 3,
+                        "reps": "45s"
+                    },
+                    {
+                        "exerciseId": "mobility_flow",
+                        "sets": 1,
+                        "reps": "20min"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "muscle-intermediate",
+        "name": "Moderate Mass Builder",
+        "goal": "muscle_gain",
+        "level": "intermediate",
+        "description": "4-day split intensified to drive hypertrophy with accessory work and volume.",
+        "duration": "8 Weeks",
+        "difficultyLabel": "Intermediate",
+        "days": [
+            {
+                "day": 1,
+                "focus": "Upper Push (Heavy)",
+                "targetMuscles": [
+                    "chest",
+                    "shoulders",
+                    "triceps"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "bench_press",
+                        "sets": 5,
+                        "reps": 6
+                    },
+                    {
+                        "exerciseId": "overhead_press",
+                        "sets": 4,
+                        "reps": 8
+                    }
+                ]
+            },
+            {
+                "day": 2,
+                "focus": "Lower Strength/Volume",
+                "targetMuscles": [
+                    "quads",
+                    "glutes",
+                    "hamstrings"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "barbell_squat",
+                        "sets": 5,
+                        "reps": 6
+                    },
+                    {
+                        "exerciseId": "leg_press",
+                        "sets": 4,
+                        "reps": 10
+                    }
+                ]
+            },
+            {
+                "day": 3,
+                "focus": "Upper Pull (Volume)",
+                "targetMuscles": [
+                    "back",
+                    "biceps"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "weighted_pull_up",
+                        "sets": 4,
+                        "reps": 8
+                    },
+                    {
+                        "exerciseId": "barbell_row",
+                        "sets": 4,
+                        "reps": 8
+                    }
+                ]
+            },
+            {
+                "day": 4,
+                "focus": "Accessory Hypertrophy",
+                "targetMuscles": [
+                    "arms",
+                    "delts",
+                    "core"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "dumbbell_fly",
+                        "sets": 3,
+                        "reps": 12
+                    },
+                    {
+                        "exerciseId": "face_pull",
+                        "sets": 3,
+                        "reps": 15
+                    }
+                ]
+            },
+            {
+                "day": 5,
+                "focus": "Leg Volume",
+                "targetMuscles": [
+                    "hamstrings",
+                    "glutes"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "romanian_deadlift",
+                        "sets": 4,
+                        "reps": 10
+                    },
+                    {
+                        "exerciseId": "walking_lunge",
+                        "sets": 3,
+                        "reps": 12
+                    }
+                ]
+            },
+            {
+                "day": 6,
+                "focus": "Conditioning & Core",
+                "targetMuscles": [
+                    "cardio",
+                    "core"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "rower",
+                        "sets": 1,
+                        "reps": "20min"
+                    },
+                    {
+                        "exerciseId": "hanging_leg_raise",
+                        "sets": 3,
+                        "reps": 12
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "muscle-advanced",
+        "name": "Mass & Density Protocol",
+        "goal": "muscle_gain",
+        "level": "advanced",
+        "description": "High-volume, periodized hypertrophy program with intensity techniques and progressive overload.",
+        "duration": "10 Weeks",
+        "difficultyLabel": "Advanced",
+        "days": [
+            {
+                "day": 1,
+                "focus": "Heavy Lower",
+                "targetMuscles": [
+                    "quads",
+                    "glutes"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "front_squat",
+                        "sets": 5,
+                        "reps": 5
+                    },
+                    {
+                        "exerciseId": "deadlift",
+                        "sets": 4,
+                        "reps": 5
+                    }
+                ]
+            },
+            {
+                "day": 2,
+                "focus": "Heavy Push",
+                "targetMuscles": [
+                    "chest",
+                    "shoulders"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "bench_press",
+                        "sets": 5,
+                        "reps": 5
+                    },
+                    {
+                        "exerciseId": "incline_dumbbell_press",
+                        "sets": 4,
+                        "reps": 8
+                    }
+                ]
+            },
+            {
+                "day": 3,
+                "focus": "Volume Pull",
+                "targetMuscles": [
+                    "back",
+                    "biceps"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "barbell_row",
+                        "sets": 5,
+                        "reps": 8
+                    },
+                    {
+                        "exerciseId": "lat_pulldown",
+                        "sets": 4,
+                        "reps": 10
+                    }
+                ]
+            },
+            {
+                "day": 4,
+                "focus": "Hypertrophy Lower",
+                "targetMuscles": [
+                    "hamstrings",
+                    "glutes"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "hip_thrust",
+                        "sets": 5,
+                        "reps": 8
+                    },
+                    {
+                        "exerciseId": "bulgarian_split_squat",
+                        "sets": 4,
+                        "reps": 10
+                    }
+                ]
+            },
+            {
+                "day": 5,
+                "focus": "Upper Accessory & Arms",
+                "targetMuscles": [
+                    "arms",
+                    "delts"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "skull_crusher",
+                        "sets": 4,
+                        "reps": 10
+                    },
+                    {
+                        "exerciseId": "barbell_curl",
+                        "sets": 4,
+                        "reps": 10
+                    }
+                ]
+            },
+            {
+                "day": 6,
+                "focus": "Conditioning & Recovery",
+                "targetMuscles": [
+                    "cardio",
+                    "mobility"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "assault_bike",
+                        "sets": 6,
+                        "reps": "30s"
+                    },
+                    {
+                        "exerciseId": "mobility_flow",
+                        "sets": 1,
+                        "reps": "30min"
+                    }
+                ]
+            }
+        ]
+    }
+]

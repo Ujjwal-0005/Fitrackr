@@ -1,0 +1,321 @@
+[
+    {
+        "id": "endurance-beginner",
+        "name": "Endurance Base Builder",
+        "goal": "endurance",
+        "level": "beginner",
+        "description": "Gradual cardio base to increase aerobic capacity and work capacity for new trainees.",
+        "duration": "6 Weeks",
+        "difficultyLabel": "Beginner",
+        "days": [
+            {
+                "day": 1,
+                "focus": "Aerobic Base",
+                "targetMuscles": [
+                    "cardio"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "brisk_walk",
+                        "sets": 1,
+                        "reps": "30min"
+                    },
+                    {
+                        "exerciseId": "jump_rope",
+                        "sets": 4,
+                        "reps": "1min"
+                    }
+                ]
+            },
+            {
+                "day": 2,
+                "focus": "Intervals",
+                "targetMuscles": [
+                    "cardio"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "treadmill_run",
+                        "sets": 8,
+                        "reps": "1min_on_1min_off"
+                    },
+                    {
+                        "exerciseId": "plank",
+                        "sets": 3,
+                        "reps": "45s"
+                    }
+                ]
+            },
+            {
+                "day": 3,
+                "focus": "Long Steady State",
+                "targetMuscles": [
+                    "cardio"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "bike_steady",
+                        "sets": 1,
+                        "reps": "40min"
+                    }
+                ]
+            },
+            {
+                "day": 4,
+                "focus": "Recovery & Mobility",
+                "targetMuscles": [
+                    "mobility"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "yoga_flow",
+                        "sets": 1,
+                        "reps": "30min"
+                    }
+                ]
+            },
+            {
+                "day": 5,
+                "focus": "Hill Work",
+                "targetMuscles": [
+                    "legs",
+                    "cardio"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "hill_sprints",
+                        "sets": 8,
+                        "reps": "30s"
+                    }
+                ]
+            },
+            {
+                "day": 6,
+                "focus": "Cross-Train",
+                "targetMuscles": [
+                    "cardio",
+                    "full_body"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "rower",
+                        "sets": 1,
+                        "reps": "25min"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "endurance-intermediate",
+        "name": "Stamina & VO2 Builder",
+        "goal": "endurance",
+        "level": "intermediate",
+        "description": "Structured intervals, threshold runs and mixed modality conditioning to raise VO2 and lactate threshold.",
+        "duration": "8 Weeks",
+        "difficultyLabel": "Intermediate",
+        "days": [
+            {
+                "day": 1,
+                "focus": "Threshold Run",
+                "targetMuscles": [
+                    "cardio"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "treadmill_run",
+                        "sets": 1,
+                        "reps": "30min_threshold"
+                    },
+                    {
+                        "exerciseId": "core_stability",
+                        "sets": 3,
+                        "reps": 12
+                    }
+                ]
+            },
+            {
+                "day": 2,
+                "focus": "Interval Sprints",
+                "targetMuscles": [
+                    "cardio"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "assault_bike",
+                        "sets": 10,
+                        "reps": "20s_on_40s_off"
+                    }
+                ]
+            },
+            {
+                "day": 3,
+                "focus": "Tempo Endurance",
+                "targetMuscles": [
+                    "cardio"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "long_run",
+                        "sets": 1,
+                        "reps": "45-60min"
+                    }
+                ]
+            },
+            {
+                "day": 4,
+                "focus": "Active Recovery",
+                "targetMuscles": [
+                    "mobility"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "swim_easy",
+                        "sets": 1,
+                        "reps": "30min"
+                    }
+                ]
+            },
+            {
+                "day": 5,
+                "focus": "Mixed Modality",
+                "targetMuscles": [
+                    "cardio",
+                    "full_body"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "rower",
+                        "sets": 6,
+                        "reps": "500m_intervals"
+                    }
+                ]
+            },
+            {
+                "day": 6,
+                "focus": "Long Slow Distance",
+                "targetMuscles": [
+                    "cardio"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "long_bike",
+                        "sets": 1,
+                        "reps": "90min"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "endurance-advanced",
+        "name": "Endurance Performance Protocol",
+        "goal": "endurance",
+        "level": "advanced",
+        "description": "High-volume, targeted conditioning for athletes needing event-specific endurance performance.",
+        "duration": "12 Weeks",
+        "difficultyLabel": "Advanced",
+        "days": [
+            {
+                "day": 1,
+                "focus": "VO2 Intervals",
+                "targetMuscles": [
+                    "cardio"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "track_intervals",
+                        "sets": 8,
+                        "reps": "800m"
+                    },
+                    {
+                        "exerciseId": "core_strength",
+                        "sets": 3,
+                        "reps": 15
+                    }
+                ]
+            },
+            {
+                "day": 2,
+                "focus": "Long Tempo",
+                "targetMuscles": [
+                    "cardio"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "long_run",
+                        "sets": 1,
+                        "reps": "75min"
+                    }
+                ]
+            },
+            {
+                "day": 3,
+                "focus": "Mixed Intervals",
+                "targetMuscles": [
+                    "cardio"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "rower",
+                        "sets": 8,
+                        "reps": "750m"
+                    },
+                    {
+                        "exerciseId": "assault_bike",
+                        "sets": 6,
+                        "reps": "1min_on_1min_off"
+                    }
+                ]
+            },
+            {
+                "day": 4,
+                "focus": "Speed Endurance",
+                "targetMuscles": [
+                    "speed"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "hill_repeats",
+                        "sets": 10,
+                        "reps": "30s"
+                    }
+                ]
+            },
+            {
+                "day": 5,
+                "focus": "Cross Training",
+                "targetMuscles": [
+                    "cardio",
+                    "legs"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "swim_intervals",
+                        "sets": 10,
+                        "reps": "100m"
+                    }
+                ]
+            },
+            {
+                "day": 6,
+                "focus": "Long Slow Distance + Recovery",
+                "targetMuscles": [
+                    "cardio"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "long_bike",
+                        "sets": 1,
+                        "reps": "120min"
+                    },
+                    {
+                        "exerciseId": "stretching",
+                        "sets": 1,
+                        "reps": "20min"
+                    }
+                ]
+            }
+        ]
+    }
+]

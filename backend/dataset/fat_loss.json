@@ -1,0 +1,329 @@
+[
+    {
+        "id": "fat-beginner",
+        "name": "Fat Loss Beginner",
+        "goal": "fat_loss",
+        "level": "beginner",
+        "description": "Beginner-friendly fat loss plan focusing on calorie burn and movement consistency.",
+        "duration": "4 Weeks",
+        "difficultyLabel": "Beginner",
+        "days": [
+            {
+                "day": 1,
+                "focus": "Full Body Cardio",
+                "targetMuscles": [
+                    "cardio"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "brisk_walk",
+                        "sets": 1,
+                        "reps": "30min"
+                    },
+                    {
+                        "exerciseId": "jumping_jacks",
+                        "sets": 3,
+                        "reps": 30
+                    }
+                ]
+            },
+            {
+                "day": 2,
+                "focus": "Lower Body",
+                "targetMuscles": [
+                    "legs"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "bodyweight_squat",
+                        "sets": 3,
+                        "reps": 15
+                    },
+                    {
+                        "exerciseId": "lunges",
+                        "sets": 3,
+                        "reps": 12
+                    }
+                ]
+            },
+            {
+                "day": 3,
+                "focus": "Core",
+                "targetMuscles": [
+                    "core"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "plank",
+                        "sets": 3,
+                        "reps": "40s"
+                    },
+                    {
+                        "exerciseId": "bicycle_crunch",
+                        "sets": 3,
+                        "reps": 20
+                    }
+                ]
+            },
+            {
+                "day": 4,
+                "focus": "Upper Body",
+                "targetMuscles": [
+                    "chest",
+                    "back"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "push_up",
+                        "sets": 3,
+                        "reps": 10
+                    },
+                    {
+                        "exerciseId": "band_row",
+                        "sets": 3,
+                        "reps": 12
+                    }
+                ]
+            },
+            {
+                "day": 5,
+                "focus": "HIIT",
+                "targetMuscles": [
+                    "cardio"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "burpees",
+                        "sets": 4,
+                        "reps": 10
+                    },
+                    {
+                        "exerciseId": "mountain_climbers",
+                        "sets": 3,
+                        "reps": 30
+                    }
+                ]
+            },
+            {
+                "day": 6,
+                "focus": "Recovery",
+                "targetMuscles": [
+                    "full_body"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "stretching",
+                        "sets": 1,
+                        "reps": "20min"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fat-intermediate",
+        "name": "Fat Loss Intermediate",
+        "goal": "fat_loss",
+        "level": "intermediate",
+        "description": "Intermediate fat loss with strength + conditioning.",
+        "duration": "6 Weeks",
+        "difficultyLabel": "Intermediate",
+        "days": [
+            {
+                "day": 1,
+                "focus": "Lower Strength",
+                "targetMuscles": [
+                    "legs"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "barbell_squat",
+                        "sets": 4,
+                        "reps": 8
+                    },
+                    {
+                        "exerciseId": "walking_lunge",
+                        "sets": 3,
+                        "reps": 12
+                    }
+                ]
+            },
+            {
+                "day": 2,
+                "focus": "Cardio Intervals",
+                "targetMuscles": [
+                    "cardio"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "treadmill_run",
+                        "sets": 1,
+                        "reps": "25min"
+                    }
+                ]
+            },
+            {
+                "day": 3,
+                "focus": "Upper Strength",
+                "targetMuscles": [
+                    "chest",
+                    "back"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "bench_press",
+                        "sets": 4,
+                        "reps": 8
+                    },
+                    {
+                        "exerciseId": "lat_pulldown",
+                        "sets": 4,
+                        "reps": 10
+                    }
+                ]
+            },
+            {
+                "day": 4,
+                "focus": "HIIT",
+                "targetMuscles": [
+                    "cardio"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "battle_rope",
+                        "sets": 6,
+                        "reps": "30s"
+                    }
+                ]
+            },
+            {
+                "day": 5,
+                "focus": "Core + Conditioning",
+                "targetMuscles": [
+                    "core"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "hanging_leg_raise",
+                        "sets": 3,
+                        "reps": 12
+                    }
+                ]
+            },
+            {
+                "day": 6,
+                "focus": "Recovery",
+                "targetMuscles": [
+                    "full_body"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "mobility_flow",
+                        "sets": 1,
+                        "reps": "25min"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fat-advanced",
+        "name": "Fat Loss Advanced",
+        "goal": "fat_loss",
+        "level": "advanced",
+        "description": "High-intensity advanced fat loss for experienced athletes.",
+        "duration": "8 Weeks",
+        "difficultyLabel": "Advanced",
+        "days": [
+            {
+                "day": 1,
+                "focus": "Heavy MetCon",
+                "targetMuscles": [
+                    "full_body"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "thruster",
+                        "sets": 5,
+                        "reps": 8
+                    },
+                    {
+                        "exerciseId": "burpee_pullup",
+                        "sets": 5,
+                        "reps": 8
+                    }
+                ]
+            },
+            {
+                "day": 2,
+                "focus": "Lower Power",
+                "targetMuscles": [
+                    "legs"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "front_squat",
+                        "sets": 5,
+                        "reps": 5
+                    }
+                ]
+            },
+            {
+                "day": 3,
+                "focus": "Endurance Cardio",
+                "targetMuscles": [
+                    "cardio"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "rower",
+                        "sets": 1,
+                        "reps": "40min"
+                    }
+                ]
+            },
+            {
+                "day": 4,
+                "focus": "Upper Power",
+                "targetMuscles": [
+                    "upper_body"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "weighted_pull_up",
+                        "sets": 5,
+                        "reps": 5
+                    }
+                ]
+            },
+            {
+                "day": 5,
+                "focus": "Sprint Conditioning",
+                "targetMuscles": [
+                    "cardio"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "sled_push",
+                        "sets": 6,
+                        "reps": "30m"
+                    }
+                ]
+            },
+            {
+                "day": 6,
+                "focus": "Active Recovery",
+                "targetMuscles": [
+                    "full_body"
+                ],
+                "exercises": [
+                    {
+                        "exerciseId": "yoga_flow",
+                        "sets": 1,
+                        "reps": "30min"
+                    }
+                ]
+            }
+        ]
+    }
+]
